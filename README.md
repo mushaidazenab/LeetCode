@@ -1,2 +1,2 @@
 # LeetCode
-Made this repository to track my progress with LeetCode.
+Tracking my progress with LeetCode.
