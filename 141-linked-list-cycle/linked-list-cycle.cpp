@@ -14,7 +14,7 @@ bool hasCycle(ListNode *head)
     unordered_map<ListNode *, int> storageTypeShi;
     while (temp != nullptr)
     {
-        if (storageTypeShi[temp] > 1)
+        if (storageTypeShi[temp] > 0)
         {
             return true;
         }
