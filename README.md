@@ -23,4 +23,16 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
