@@ -11,6 +11,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,8 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
