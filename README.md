@@ -20,6 +20,7 @@ Tracking my progress with LeetCode.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mushaidazenab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -34,6 +35,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mushaidazenab/LeetCode/tree/master/0020-valid-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
@@ -59,4 +61,8 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0707-design-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mushaidazenab/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
