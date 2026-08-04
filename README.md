@@ -31,6 +31,7 @@ Tracking my progress with LeetCode.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
