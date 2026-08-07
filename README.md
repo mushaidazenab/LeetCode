@@ -40,6 +40,7 @@ Tracking my progress with LeetCode.
 | [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mushaidazenab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mushaidazenab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/mushaidazenab/LeetCode/tree/master/0058-length-of-last-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
