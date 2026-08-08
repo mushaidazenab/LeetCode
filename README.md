@@ -7,6 +7,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mushaidazenab/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -92,4 +93,9 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mushaidazenab/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
