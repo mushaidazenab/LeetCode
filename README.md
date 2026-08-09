@@ -7,6 +7,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mushaidazenab/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
@@ -34,6 +35,7 @@ Tracking my progress with LeetCode.
 | [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mushaidazenab/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
 | [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
