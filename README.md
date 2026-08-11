@@ -37,6 +37,7 @@ Tracking my progress with LeetCode.
 | [0035-search-insert-position](https://github.com/mushaidazenab/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mushaidazenab/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
