@@ -8,6 +8,7 @@ Tracking my progress with LeetCode.
 | ------- |
 | [0009-palindrome-number](https://github.com/mushaidazenab/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
@@ -46,6 +47,7 @@ Tracking my progress with LeetCode.
 | [0020-valid-parentheses](https://github.com/mushaidazenab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mushaidazenab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mushaidazenab/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
@@ -106,4 +108,12 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
