@@ -41,6 +41,7 @@ Tracking my progress with LeetCode.
 | [0088-merge-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mushaidazenab/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mushaidazenab/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -59,6 +60,7 @@ Tracking my progress with LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -69,11 +71,13 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
@@ -121,4 +125,12 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
