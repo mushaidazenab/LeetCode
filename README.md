@@ -10,6 +10,7 @@ Tracking my progress with LeetCode.
 | [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Tracking my progress with LeetCode.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -121,6 +123,7 @@ Tracking my progress with LeetCode.
 | ------- |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mushaidazenab/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
