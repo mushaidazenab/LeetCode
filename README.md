@@ -12,6 +12,7 @@ Tracking my progress with LeetCode.
 | [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mushaidazenab/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mushaidazenab/LeetCode/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Tracking my progress with LeetCode.
 | ------- |
 | [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/mushaidazenab/LeetCode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
