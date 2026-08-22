@@ -13,6 +13,7 @@ Tracking my progress with LeetCode.
 | [0202-happy-number](https://github.com/mushaidazenab/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mushaidazenab/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mushaidazenab/LeetCode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Tracking my progress with LeetCode.
 | [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mushaidazenab/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mushaidazenab/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Tracking my progress with LeetCode.
 | [0190-reverse-bits](https://github.com/mushaidazenab/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mushaidazenab/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mushaidazenab/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
