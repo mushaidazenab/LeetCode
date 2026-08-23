@@ -12,6 +12,7 @@ Tracking my progress with LeetCode.
 | [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/mushaidazenab/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mushaidazenab/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/mushaidazenab/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mushaidazenab/LeetCode/tree/master/0342-power-of-four) |
 ## Linked List
@@ -138,6 +139,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/mushaidazenab/LeetCode/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,4 +154,8 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mushaidazenab/LeetCode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mushaidazenab/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
