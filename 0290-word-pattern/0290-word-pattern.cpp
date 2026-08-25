@@ -1,6 +1,6 @@
 class Solution {
 public:
-   bool wordPattern(string pattern, string s)
+bool wordPattern(string pattern, string s)
 {
     unordered_map<char, string> seen;
     unordered_map<string, char> reverseSeen;
@@ -9,8 +9,7 @@ public:
     for (char p : pattern)
     {
         temp = "";
-
-        if (i >= s.length())
+        if (i >= s.length()) // when no. of letters > no. of words
             return false;
 
         if (i < s.length() && s[i] == ' ')
@@ -41,13 +40,8 @@ public:
         seen[p] = temp;
         reverseSeen[temp] = p;
     }
-
-    while (i < s.length() && s[i] == ' ')
-        i++;
-
-    if (i < s.length())
+    if (i < s.length()) // no. of words > no. of letters i.e. to check if there are unmapped words left in 's'
         return false;
-
     return true;
 }
 };
