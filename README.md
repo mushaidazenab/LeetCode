@@ -62,6 +62,7 @@ Tracking my progress with LeetCode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mushaidazenab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mushaidazenab/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/mushaidazenab/LeetCode/tree/master/0290-word-pattern) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
@@ -72,6 +73,7 @@ Tracking my progress with LeetCode.
 | ------- |
 | [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mushaidazenab/LeetCode/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/mushaidazenab/LeetCode/tree/master/0290-word-pattern) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
