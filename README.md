@@ -52,6 +52,7 @@ Tracking my progress with LeetCode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mushaidazenab/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/mushaidazenab/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mushaidazenab/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3731-find-missing-elements](https://github.com/mushaidazenab/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -161,4 +162,8 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mushaidazenab/LeetCode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mushaidazenab/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
