@@ -53,6 +53,7 @@ Tracking my progress with LeetCode.
 | [0088-merge-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mushaidazenab/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/mushaidazenab/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/mushaidazenab/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mushaidazenab/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -134,6 +135,7 @@ Tracking my progress with LeetCode.
 | ------- |
 | [0053-maximum-subarray](https://github.com/mushaidazenab/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/mushaidazenab/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
