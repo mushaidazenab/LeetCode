@@ -19,6 +19,7 @@ Tracking my progress with LeetCode.
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mushaidazenab/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0707-design-linked-list) |
 ## Two Pointers
@@ -38,6 +39,7 @@ Tracking my progress with LeetCode.
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mushaidazenab/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/mushaidazenab/LeetCode/tree/master/0326-power-of-three) |
