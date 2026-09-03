@@ -56,6 +56,7 @@ Tracking my progress with LeetCode.
 | [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/mushaidazenab/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mushaidazenab/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mushaidazenab/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ Tracking my progress with LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mushaidazenab/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mushaidazenab/LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/mushaidazenab/LeetCode/tree/master/0290-word-pattern) |
@@ -178,4 +180,8 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mushaidazenab/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mushaidazenab/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
