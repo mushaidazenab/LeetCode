@@ -25,6 +25,7 @@ Tracking my progress with LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mushaidazenab/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mushaidazenab/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mushaidazenab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -47,6 +48,7 @@ Tracking my progress with LeetCode.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mushaidazenab/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mushaidazenab/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -89,6 +91,7 @@ Tracking my progress with LeetCode.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mushaidazenab/LeetCode/tree/master/0011-container-with-most-water) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
