@@ -54,6 +54,7 @@ Tracking my progress with LeetCode.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mushaidazenab/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/mushaidazenab/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mushaidazenab/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@ Tracking my progress with LeetCode.
 | [0014-longest-common-prefix](https://github.com/mushaidazenab/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mushaidazenab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mushaidazenab/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/mushaidazenab/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mushaidazenab/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/mushaidazenab/LeetCode/tree/master/0290-word-pattern) |
@@ -83,6 +85,7 @@ Tracking my progress with LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mushaidazenab/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mushaidazenab/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mushaidazenab/LeetCode/tree/master/0202-happy-number) |
@@ -98,6 +101,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mushaidazenab/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mushaidazenab/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mushaidazenab/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
