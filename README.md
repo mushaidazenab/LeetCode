@@ -6,6 +6,7 @@ Tracking my progress with LeetCode.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mushaidazenab/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mushaidazenab/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
@@ -19,6 +20,7 @@ Tracking my progress with LeetCode.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mushaidazenab/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mushaidazenab/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mushaidazenab/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mushaidazenab/LeetCode/tree/master/0092-reverse-linked-list-ii) |
@@ -49,6 +51,7 @@ Tracking my progress with LeetCode.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mushaidazenab/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mushaidazenab/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/mushaidazenab/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mushaidazenab/LeetCode/tree/master/0203-remove-linked-list-elements) |
