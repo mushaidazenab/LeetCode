@@ -19,6 +19,7 @@ Tracking my progress with LeetCode.
 | [0326-power-of-three](https://github.com/mushaidazenab/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mushaidazenab/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mushaidazenab/LeetCode/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/mushaidazenab/LeetCode/tree/master/2235-add-two-integers) |
 ## Linked List
 |  |
 | ------- |
