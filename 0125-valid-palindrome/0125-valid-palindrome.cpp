@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-bool check(string &s, int l, int r)
+bool check(string &s, int l, int r) //passes string by reference otherwise memory limit exceeded
 {
     if (l == r || l > r)
     {
