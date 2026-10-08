@@ -12,6 +12,7 @@ Tracking my progress with LeetCode.
 | [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mushaidazenab/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mushaidazenab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/mushaidazenab/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mushaidazenab/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mushaidazenab/LeetCode/tree/master/0258-add-digits) |
@@ -54,6 +55,7 @@ Tracking my progress with LeetCode.
 | ------- |
 | [0020-valid-parentheses](https://github.com/mushaidazenab/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/mushaidazenab/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mushaidazenab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/mushaidazenab/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -85,6 +87,7 @@ Tracking my progress with LeetCode.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mushaidazenab/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mushaidazenab/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mushaidazenab/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mushaidazenab/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mushaidazenab/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/mushaidazenab/LeetCode/tree/master/0198-house-robber) |
