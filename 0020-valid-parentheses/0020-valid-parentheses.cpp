@@ -15,10 +15,10 @@ public:
         for (char c : s)
         {
             // check if the current character is a closing bracket (exists in our map)
-            if (closeToOpen.count(c))
+            if (closeToOpen.count(c)) //1st part of map
             {
                 // if stack is not empty and the top of the stack matches the expected opening bracket
-                if (!st.empty() && st.top() == closeToOpen[c])
+                if (!st.empty() && st.top() == closeToOpen[c]) //closeToOpen[c] - gives the second part of set
                 {
                     st.pop(); // Remove the matched opening bracket from the stack
                 }
