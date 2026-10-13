@@ -1,41 +1,40 @@
 class Solution {
 public:
     bool isValid(string s)
+{
+    // for every opening brace found, push its closing brace  on stack
+    // if the char is not an opening bracket (i.e it is a closing brace)
+    // we want to make sure it is equal to top of the stack - rmbr we were pushing closing braces to stack
+    // if it is equal then pop
+    // if either the stack is empty or the stack top doesnt match then pattern is not valid
+    // if we get an epmty stack at the end of our loop, then it means th pattern was valid
+    stack<char> st;
+    for (char c : s)
     {
-        // a stack to keep track of opening brackets as we encounter them
-        std::stack<char> st;
-
-        // hash map to look up the matching opening bracket for each closing bracket
-        std::unordered_map<char, char> closeToOpen = {
-            {')', '('},
-            {']', '['},
-            {'}', '{'}};
-
-        // iterating through each character in the string
-        for (char c : s)
+        if (c == '(')
         {
-            // check if the current character is a closing bracket (exists in our map)
-            if (closeToOpen.count(c)) //1st part of map
+            st.push(')');
+        }
+        else if (c == '{')
+        {
+            st.push('}');
+        }
+        else if (c == '[')
+        {
+            st.push(']');
+        }
+        else
+        {
+            if (st.empty() || c != st.top())
             {
-                // if stack is not empty and the top of the stack matches the expected opening bracket
-                if (!st.empty() && st.top() == closeToOpen[c]) //closeToOpen[c] - gives the second part of set
-                {
-                    st.pop(); // Remove the matched opening bracket from the stack
-                }
-                else
-                {
-                    // otherwise, it's a mismatch or a closing bracket with no opening partner
-                    return false;
-                }
+                return false;
             }
             else
             {
-                // if it's an opening bracket, push it onto the stack
-                st.push(c);
+                st.pop();
             }
         }
-
-        // if the stack is completely empty, all brackets were matched properly
-        return st.empty();
     }
+    return st.empty();
+}
 };
