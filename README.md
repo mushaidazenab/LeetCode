@@ -83,6 +83,7 @@ Tracking my progress with LeetCode.
 | [0049-group-anagrams](https://github.com/mushaidazenab/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mushaidazenab/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mushaidazenab/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/mushaidazenab/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mushaidazenab/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mushaidazenab/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mushaidazenab/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -194,6 +195,7 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mushaidazenab/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/mushaidazenab/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mushaidazenab/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mushaidazenab/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mushaidazenab/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -244,4 +246,8 @@ Tracking my progress with LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mushaidazenab/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mushaidazenab/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
